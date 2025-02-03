@@ -49,7 +49,7 @@ The following approach was taken to analyze the campaign data:
    - Cost vs. ROI scatter plots to identify performance inefficiencies.
    - Heatmap representing the ROI on a day-by-day basis for each client, helping to
      identify fluctuations.
-![VISUAL1](https://drive.google.com/file/d/11RFJUagjZHfvGiOfdwY-Q9n0SDX2uKR8/view?usp=sharing)
+![VISUAL1](https://drive.google.com/uc?export=view&id=11RFJUagjZHfvGiOfdwY-Q9n0SDX2uKR8)
 
 ## Key Insights
 
