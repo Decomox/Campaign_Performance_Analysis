@@ -50,6 +50,9 @@ The following approach was taken to analyze the campaign data:
    - Heatmap representing the ROI on a day-by-day basis for each client, helping to
      identify fluctuations.
 ![VISUAL1](https://drive.google.com/uc?export=view&id=11RFJUagjZHfvGiOfdwY-Q9n0SDX2uKR8)
+![VISUAL1](https://drive.google.com/uc?export=view&id=1KryKOZ2ThP53cScJooGvAJ-17kSJAipf)
+![VISUAL1](https://drive.google.com/uc?export=view&id=16ezTPd8Lz1i_UKqGhxUjI-tKX-QO5LOT)
+![VISUAL1](https://drive.google.com/uc?export=view&id=1UwLY5AbbvBo7HIKksH6PuYmVfs2gVatP)
 
 ## Key Insights
 
